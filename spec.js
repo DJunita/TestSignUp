@@ -28,14 +28,6 @@ describe('Testing on HOOQ', function () {
     expect(browser.get('https://wooow.hooq.tv/id/signup-email-sent'));
   });
 
-  // it('logs in correctly', function () {
-  //   browser.get('/login');
-  //   $('#username').sendKeys(name);
-  //   $('#passwd').sendKeys('Secret123');
-  //   $('button').click();
-  //   expect(browser.getCurrentUrl()).toBe(homeUrl);
-  // });
-
 });
 
 
